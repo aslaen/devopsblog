@@ -58,8 +58,8 @@ default_asides: [custom/asides/about.html, asides/recent_posts.html, asides/gith
 # ----------------------- #
 
 # Github repositories - rackspace
-github_user: "rackspace"
-github_repo_count: 0
+github_user: rackspace
+github_repo_count: 6
 github_show_profile_link: false
 github_skip_forks: true
 
